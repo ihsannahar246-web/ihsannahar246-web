@@ -1,6 +1,6 @@
 <!-- Banner Bagian Atas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20,27&height=200&section=header&text=Hi%20there!%20👋%20I'm%20Yulio%20Putra&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20,27&height=200&section=header&text=Hi%20there!%20👋%20I'm%20San%20Auditoree&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Tautan Sosial / Badges -->
