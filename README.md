@@ -8,7 +8,7 @@
   <a href="URL_PROJECT_ANDA"><img src="https://img.shields.io/badge/🌐_LIVE_PROJECT-333333?style=for-the-badge" alt="Live Project"></a>
   <a href="URL_WEB_ANDA"><img src="https://img.shields.io/badge/UMKM_NEXUS-5865F2?style=for-the-badge" alt="UMKM Nexus"></a>
   <a href="https://linkedin.com/in/USERNAME_ANDA"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/USERNAME_ANDA"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/cristiano/USERNAME_ANDA"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:EMAIL_ANDA"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
